@@ -1,6 +1,8 @@
 # LuaProject
 Weather Monitoring System
 
+The project was developed to analyze temperature and humidity (weather) using sensors. It involves machine to machine communication where one machine is reading the weather and the other one is receiving it and analyzing it. 					              
+
 Files:
 1. ESPLORER: application for running Lua scripts onto the nodemcu board.
 2. ESP8266FLASHER: to flash latest OS onto the Node MCU board.
